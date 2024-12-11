@@ -1,2 +1,2 @@
 # F.CS301
- just imagine
+ Just do it
